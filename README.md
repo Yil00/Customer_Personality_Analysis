@@ -7,10 +7,10 @@ Customer personality analysis helps a business to modify its product based on it
 ___
 
 
-<p align="center">
-  <img width="850" height="400" src="img/clustering.png">
+<p align="left">
+  <img width="550" height="350" src="img/Cluster-analysis-Hierarchical-clustering.JPG">
 </p>
-<p align="center">
+<p align="right">
   <img width="600" height="400" src="img/GraphViz.png">
 </p>
 
